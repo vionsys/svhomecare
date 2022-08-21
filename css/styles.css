@@ -11411,7 +11411,7 @@ header.masthead {
   padding-top: 2.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
+  color: #d63384;
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11435,8 +11435,8 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
-    padding-bottom: 12.5rem;
+    padding-top: 30rem;
+    padding-bottom: 5rem;
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
@@ -11445,7 +11445,7 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 4.5rem;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
